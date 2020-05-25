@@ -1,0 +1,4 @@
+This is a django app that allows a user to enter an activity he or she intends to do. If the task is complete
+you can delete the completed task.
+
+use it as you wish to improve your django skills :-)
